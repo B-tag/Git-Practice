@@ -3,3 +3,6 @@
 
 # temp file
 ./temp.txt.txt
+
+# workspace
+./idea/workspace.xml
